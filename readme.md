@@ -10,4 +10,6 @@ To write to an HTML file of the same name as your markdown file, use `gack -f wh
 
 You can stick these flags together like `gack -fp`
 
+install by `cd`ing into the directory and typing `go install`
+
 useful to me and only me
